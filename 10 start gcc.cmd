@@ -1,0 +1,1 @@
+start c:\gcc\bin\g++.exe 10main.cpp  -I "C:\1111111\my\10-cpp-audiere\" -laudiere
